@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c8ab7f8.css",
+    "main.js": "/static/js/main.8d17d400.js",
+    "static/js/787.be55e6d0.chunk.js": "/static/js/787.be55e6d0.chunk.js",
+    "static/media/ColorTestFull.png": "/static/media/ColorTestFull.623d2dc2cb66ace08978.png",
+    "static/media/estudo.PNG": "/static/media/estudo.24b257437c766ebba76b.PNG",
+    "static/media/front-sem-bg.png": "/static/media/front-sem-bg.fe574fe68ee96c39610e.png",
+    "static/media/py-sem-bg.png": "/static/media/py-sem-bg.adf220a5fb905a36c675.png",
+    "static/media/cv.pdf": "/static/media/cv.f778117298fc28bd4d9c.pdf",
+    "static/media/Color Test.PNG": "/static/media/Color Test.48b07264a1cdcfbac134.PNG",
+    "static/media/bg-teste.png": "/static/media/bg-teste.df27b9f94bd2ca921611.png",
+    "static/media/fit.png": "/static/media/fit.f119477aac3156456572.png",
+    "static/media/estudo-preto.png": "/static/media/estudo-preto.53e14a03834e39c31d57.png",
+    "static/media/fit-preto.png": "/static/media/fit-preto.224092c47459a40497c8.png",
+    "static/media/www.png": "/static/media/www.00ca427fcebb5207b9e9.png",
+    "static/media/python.svg": "/static/media/python.5aea3e65322dadc11f08f896e679716b.svg",
+    "static/media/bola_passaro.svg": "/static/media/bola_passaro.9b72617ec7784bfbf7f75f8203ade977.svg",
+    "index.html": "/index.html",
+    "main.9c8ab7f8.css.map": "/static/css/main.9c8ab7f8.css.map",
+    "main.8d17d400.js.map": "/static/js/main.8d17d400.js.map",
+    "787.be55e6d0.chunk.js.map": "/static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8ab7f8.css",
+    "static/js/main.8d17d400.js"
+  ]
+}
